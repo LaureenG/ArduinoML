@@ -119,6 +119,7 @@ hs_err_pid*
 
 
 ### MetaProgrammingSystem ###
+.mps
 workspace.xml
 junitvmwatcher*.properties
 build.properties

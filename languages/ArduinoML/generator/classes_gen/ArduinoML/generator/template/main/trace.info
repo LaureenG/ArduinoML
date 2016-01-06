@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="13,0,32,0" name="ArduinoML.generator.template.main.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:e052953f-f25b-4f03-bf03-ae1c80dbc53b(ArduinoML.generator.template.main@generator)/96698208123348364">
+    <file name="QueriesGenerated.java">
+      <node id="96698208123632243" at="16,110,17,335" concept="0" />
+      <node id="96698208123606112" at="28,118,29,190" concept="0" />
+      <scope id="96698208123630551" at="16,110,17,335" />
+      <scope id="96698208123606106" at="28,118,29,190" />
+    </file>
+  </root>
+  <root nodeRef="r:e052953f-f25b-4f03-bf03-ae1c80dbc53b(ArduinoML.generator.template.main@generator)/96698208123400698">
+    <file name="QueriesGenerated.java">
+      <node id="96698208123418375" at="19,110,20,183" concept="0" />
+      <scope id="96698208123416630" at="19,110,20,183" />
+    </file>
+  </root>
+  <root nodeRef="r:e052953f-f25b-4f03-bf03-ae1c80dbc53b(ArduinoML.generator.template.main@generator)/96698208123461988">
+    <file name="QueriesGenerated.java">
+      <node id="96698208123505569" at="22,110,23,183" concept="0" />
+      <scope id="96698208123505563" at="22,110,23,183" />
+    </file>
+  </root>
+  <root nodeRef="r:e052953f-f25b-4f03-bf03-ae1c80dbc53b(ArduinoML.generator.template.main@generator)/96698208123640669">
+    <file name="QueriesGenerated.java">
+      <node id="96698208123680082" at="25,110,26,341" concept="0" />
+      <scope id="96698208123678390" at="25,110,26,341" />
+    </file>
+  </root>
+</debug-info>
+
